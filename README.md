@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Project Title
 
 One Paragraph of project description goes here
@@ -85,4 +86,8 @@ This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md
 * Hat tip to anyone whose code was used
 * Inspiration
 * etc
+=======
+# Algorithm_Study
+
+>>>>>>> 05dfcbc16f54ab43096fae25e2b2b5561e7b0c19
 
