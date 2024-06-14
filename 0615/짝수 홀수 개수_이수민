@@ -1,0 +1,20 @@
+import java.util.*;
+public class 짝수 홀수 개수 {
+    public static void main(String[] args) {
+        System.out.println("go : ");
+        int NUM = new Scanner(System.in).nextInt();
+        int[] num_list = new int[NUM];
+        int[] answer = new int[2];
+        int cnt1 = 0, cnt2 = 0;
+        for (int i = 0; i < num_list.length; i++){
+            num_list[i] = new Scanner(System.in).nextInt();
+            
+            if (num_list[i] % 2 == 0) cnt1++;
+            else cnt2++;
+        }
+        answer[0] = cnt1;
+        answer[1] = cnt2;
+
+        System.out.println(answer[0] + " " + answer[1]);
+    }
+}
