@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "7125ab173ac18b1f",
+        "id": "92fa6d0e66e4bae7",
         "type": "tabs",
         "children": [
           {
-            "id": "4c94ed7d1f00563e",
+            "id": "dffcce504f8c1f4f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "day_0615/짝수홀수-신한.md",
+                "file": "day_0615/readme.md.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "day_0615/짝수홀수-신한.md",
+                "file": "day_0615/readme.md.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "day_0615/짝수홀수-신한.md",
+                "file": "day_0615/readme.md.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "day_0615/짝수홀수-신한.md"
+                "file": "day_0615/readme.md.md"
               }
             }
           },
@@ -154,8 +154,9 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "4c94ed7d1f00563e",
+  "active": "7aaa71dfd070e26a",
   "lastOpenFiles": [
-    "day_0615/짝수홀수-김현진.jpg"
+    "day_0615/짝수홀수-김현진.jpg",
+    "day_0615/readme.md.md"
   ]
 }
