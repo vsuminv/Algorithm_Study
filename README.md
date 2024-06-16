@@ -1,91 +1,47 @@
-# Project Title
+# 한국SW산업협회 알고리즘 스터디 저장소
+---
+- MSA기반 Full Stack 개발 전문가 양성과정 6기  1팀
+# 0️⃣ 1팀 멤버
+---
 
-One Paragraph of project description goes here
+|                                팀장                                 |                                팀원                                |                                팀원                                 |                                팀원                                 |                                팀원                                 |
+| :---------------------------------------------------------------: | :--------------------------------------------------------------: | :---------------------------------------------------------------: | :---------------------------------------------------------------: | :---------------------------------------------------------------: |
+| <img src="https://avatars.githubusercontent.com/u/149029049?v=4"> | <img src="https://avatars.githubusercontent.com/u/81737413?v=4"> | <img src="https://avatars.githubusercontent.com/u/172455390?v=4"> | <img src="https://avatars.githubusercontent.com/u/100822143?v=4"> | <img src="https://avatars.githubusercontent.com/u/131014787?v=4"> |
+|                   [김현진](https://github.com/05)                    |            [이수민](https://https://github.com/vsuminv)             |                [황지원](https://github.com/jiwon0719)                |                [정교영]((https://github.com/jgy0917))                |                  [신한](https://github.com/ruukr)                   |
 
-## Getting Started
+---
 
-These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See deployment for notes on how to deploy the project on a live system.
+# 1️⃣ 진행 방법
+---
+1. 주말을 제외한 1일 1문제 풀고 제출하기.
+2. 팀장은 `data_제목`으로  `folder`를 생성하여 `문제.md` 파일과 함께 업로드 합니다.
+3. 
+---
+# 2️⃣ 소스코드 파일 이름 규칙
+---
+- 본인이름.java
+- `Han.java`  
+---
+# 3️⃣ commit 규칙
 
-### Prerequisites
-
-What things you need to install the software and how to install them
-
-```
-Give examples
-```
-
-### Installing
-
-A step by step series of examples that tell you how to get a development env running
-
-Say what the step will be
-
-```
-Give the example
-```
-
-And repeat
-
-```
-until finished
-```
-
-End with an example of getting some data out of the system or using it for a little demo
-
-## Running the tests
-
-Explain how to run the automated tests for this system
-
-### Break down into end to end tests
-
-Explain what these tests test and why
+- commit 메세지: 제목 / 이름 
+- 터미널 작성법:
 
 ```
-Give an example
+git commit -m "개미군단"
 ```
+---
 
-### And coding style tests
+# ✅ 문제
 
-Explain what these tests test and why
+	- B : 백준
+    - P : 프로그래머스
 
-```
-Give an example
-```
-
-## Deployment
-
-Add additional notes about how to deploy this on a live system
-
-## Built With
-
-* [Dropwizard](http://www.dropwizard.io/1.0.2/docs/) - The web framework used
-* [Maven](https://maven.apache.org/) - Dependency Management
-* [ROME](https://rometools.github.io/rome/) - Used to generate RSS Feeds
-
-## Contributing
-
-Please read [CONTRIBUTING.md](https://gist.github.com/PurpleBooth/b24679402957c63ec426) for details on our code of conduct, and the process for submitting pull requests to us.
-
-## Versioning
-
-We use [SemVer](http://semver.org/) for versioning. For the versions available, see the [tags on this repository](https://github.com/your/project/tags). 
-
-## Authors
-
-* **Billie Thompson** - *Initial work* - [PurpleBooth](https://github.com/PurpleBooth)
-
-See also the list of [contributors](https://github.com/your/project/contributors) who participated in this project.
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
-
-## Acknowledgments
-
-* Hat tip to anyone whose code was used
-* Inspiration
-* etc
-=======
-# Algorithm_Study
+| 일차  | 출처  | 제목                                                                              | 난이도 | 문제 바로가기                                                               |
+| --- | --- | ------------------------------------------------------------------------------- | --- | --------------------------------------------------------------------- |
+| 1일차 | P   | [짝수의 합](https://school.programmers.co.kr/learn/courses/30/lessons/120831)       | 0   | [0612](https://github.com/vsuminv/Algorithm_Study/tree/main/day_0612) |
+| 2일차 | P   | [개미군단](https://school.programmers.co.kr/learn/courses/30/lessons/120837)        | 0   | [0613](https://github.com/vsuminv/Algorithm_Study/tree/main/day_0613) |
+| 3일차 | P   | [피자 나눠 먹기(1)](https://school.programmers.co.kr/learn/courses/30/lessons/120814) | 0   | [0614](https://github.com/vsuminv/Algorithm_Study/tree/main/day_0614) |
+| 4일차 | P   | [짝수 홀수 개수](https://school.programmers.co.kr/learn/courses/30/lessons/120824)    | 0   | [0615](https://github.com/vsuminv/Algorithm_Study/tree/main/day_0615) |
 
 

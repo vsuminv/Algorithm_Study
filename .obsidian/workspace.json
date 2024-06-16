@@ -11,8 +11,12 @@
             "id": "bc7547b878e0df8d",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "README.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "README.md"
+              }
             }
           },
           {
@@ -146,32 +154,34 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "bc7547b878e0df8d",
+  "active": "96fc3d23bbb6571f",
   "lastOpenFiles": [
+    "output/개미군단 문제.jpg",
+    "README.md",
+    "Pasted image 20240616163547.png",
+    "0615_짝수_홀수_개수/han.md",
+    "output/han.md",
+    "output/han.html",
+    "0615_짝수_홀수_개수/짝수홀수-김현진.jpg",
+    "output/알고리즘2_개미군단_황지원.png",
+    "output/개미군단_정교영.JPG",
+    "output/개미군단_이수민.png",
+    "output/개미군단_김현진.jpg",
+    "0612_짝수의_합/알고리즘1.김현진.jpg",
+    "output/attachment",
+    "output",
+    "untitle",
+    "untitle/untitle.iml",
+    "untitle/src/main.java",
+    "untitle/src",
+    "0615_짝수_홀수_개수/짝수 홀수 개수_이수민",
+    "0615_짝수_홀수_개수/README.md",
+    "0615_짝수_홀수_개수/shin.java",
+    "0615_짝수_홀수_개수",
     "0612_짝수의_합/알고리즘1.jpg",
     "day_0615/README.md",
-    "out/production/Algorithm_Study/teamTask/Algorithm_Study/day_0615/shin.class",
-    "out/production/Algorithm_Study/teamTask/Algorithm_Study/day_0614/피자나눠먹기_신한.class",
-    "out/production/Algorithm_Study/teamTask/Algorithm_Study/day_0614",
-    "out/production/Algorithm_Study/Solution.class",
-    "out/production/Algorithm_Study/짝수의합_이수민.class",
-    "out/production/Algorithm_Study/teamTask/Algorithm_Study/day_0612/Shinhan.class",
-    "out/production/Algorithm_Study/teamTask/Algorithm_Study/untitled/untitled.iml",
-    "out/production/Algorithm_Study/teamTask/Algorithm_Study/untitled",
-    "out/production/Algorithm_Study/teamTask/Algorithm_Study/test/testfile.txt",
-    "out/production/Algorithm_Study/teamTask/Algorithm_Study/test",
     "out/production/Algorithm_Study/teamTask/Algorithm_Study/README.md",
     "out/production/Algorithm_Study/teamTask/Algorithm_Study/day_0615/짝수홀수-김현진.jpg",
-    "out/production/Algorithm_Study/teamTask/Algorithm_Study/day_0615/README.md",
-    "out/production/Algorithm_Study/teamTask/Algorithm_Study/day_0613/알고리즘2_개미군단_황지원.png",
-    "out/production/Algorithm_Study/teamTask/Algorithm_Study/day_0613/개미군단_정교영.JPG",
-    "out/production/Algorithm_Study/teamTask/Algorithm_Study/day_0613/개미군단_이수민.png",
-    "out/production/Algorithm_Study/teamTask/Algorithm_Study/day_0613/개미군단_김현진.jpg",
-    "out/production/Algorithm_Study/teamTask/Algorithm_Study/day_0613/개미군단 문제.jpg",
-    "out/production/Algorithm_Study/teamTask/Algorithm_Study/day_0612/알고리즘1_황지원.png",
-    "out/production/Algorithm_Study/teamTask/Algorithm_Study/day_0612/알고리즘1_정교영.png",
-    "out/production/Algorithm_Study/teamTask/Algorithm_Study/day_0612/알고리즘1.김현진.jpg",
-    "out/production/Algorithm_Study/teamTask/Algorithm_Study/day_0612/알고리즘1.jpg",
-    "README.md"
+    "out/production/Algorithm_Study/teamTask/Algorithm_Study/day_0615/README.md"
   ]
 }
