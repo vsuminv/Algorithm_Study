@@ -1,0 +1,187 @@
+{
+  "main": {
+    "id": "42a6a8beb8628970",
+    "type": "split",
+    "children": [
+      {
+        "id": "d957049605f754af",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "bc7547b878e0df8d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "README.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "21cf584d1627e3ec",
+    "type": "split",
+    "children": [
+      {
+        "id": "77105da8e17e72a9",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "96fc3d23bbb6571f",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "eeef79dc0eab071b",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "8f0fce32bd943439",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "d93dcada1cffb68b",
+    "type": "split",
+    "children": [
+      {
+        "id": "f80d6b06a075ed62",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0bf8208c84e920e5",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "README.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "837c21a9df037ba4",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "README.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "065bcf3c43548b34",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "0b9b569aa0363166",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "README.md"
+              }
+            }
+          },
+          {
+            "id": "7aaa71dfd070e26a",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 4
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:퀵 스위처 열기": false,
+      "graph:그래프 뷰 열기": false,
+      "canvas:새 캔버스 만들기": false,
+      "daily-notes:오늘의 데일리 노트 열기": false,
+      "templates:템플릿 삽입": false,
+      "command-palette:명령어 팔레트 열기": false
+    }
+  },
+  "active": "96fc3d23bbb6571f",
+  "lastOpenFiles": [
+    "output/개미군단 문제.jpg",
+    "README.md",
+    "Pasted image 20240616163547.png",
+    "0615_짝수_홀수_개수/han.md",
+    "output/han.md",
+    "output/han.html",
+    "0615_짝수_홀수_개수/짝수홀수-김현진.jpg",
+    "output/알고리즘2_개미군단_황지원.png",
+    "output/개미군단_정교영.JPG",
+    "output/개미군단_이수민.png",
+    "output/개미군단_김현진.jpg",
+    "0612_짝수의_합/알고리즘1.김현진.jpg",
+    "output/attachment",
+    "output",
+    "untitle",
+    "untitle/untitle.iml",
+    "untitle/src/main.java",
+    "untitle/src",
+    "0615_짝수_홀수_개수/짝수 홀수 개수_이수민",
+    "0615_짝수_홀수_개수/README.md",
+    "0615_짝수_홀수_개수/shin.java",
+    "0615_짝수_홀수_개수",
+    "0612_짝수의_합/알고리즘1.jpg",
+    "day_0615/README.md",
+    "out/production/Algorithm_Study/teamTask/Algorithm_Study/README.md",
+    "out/production/Algorithm_Study/teamTask/Algorithm_Study/day_0615/짝수홀수-김현진.jpg",
+    "out/production/Algorithm_Study/teamTask/Algorithm_Study/day_0615/README.md"
+  ]
+}
