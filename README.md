@@ -20,7 +20,7 @@
 # 2️⃣ 소스코드 파일 이름 규칙
 ---
 - 본인이름.java
-- `Han.java`  
+- `name.java`  
 ---
 # 3️⃣ commit 규칙
 
