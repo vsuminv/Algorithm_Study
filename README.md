@@ -37,7 +37,7 @@ git commit -m "개미군단"
 	- B : 백준
     - P : 프로그래머스
 
-| 일차  | 출처  | 제목                                                                              | 난이도 | 문제 바로가기                                                               |
+| 일차  | 출처  | 제목                                                                              | 난이도 | 풀이                                                               |
 | --- | --- | ------------------------------------------------------------------------------- | --- | --------------------------------------------------------------------- |
 | 1일차 | P   | [짝수의 합](https://school.programmers.co.kr/learn/courses/30/lessons/120831)       | 0   | [0612](https://github.com/vsuminv/Algorithm_Study/tree/main/day_0612) |
 | 2일차 | P   | [개미군단](https://school.programmers.co.kr/learn/courses/30/lessons/120837)        | 0   | [0613](https://github.com/vsuminv/Algorithm_Study/tree/main/day_0613) |
