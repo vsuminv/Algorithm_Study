@@ -12,7 +12,7 @@ public class Shinhan {
         Shinhan test = new Shinhan();
 
 
-//        test.solution1(num);
+//        피자나눠먹기_신한.solution1(num);
 
 
         System.out.println(test.solution2FirstTry(5));
