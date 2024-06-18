@@ -1,19 +1,24 @@
 
 class ShinHan {
-    public int[] solution(int denum1, int num1, int denum2, int num2) {
+    public int[] solution(int numer1, int denom1, int numer2, int denom2) {
+        int n = numer1 * denom2 + numer2 * denom1;
+        int d = denom1 * denom2;
+        
+        int g = gcdFunc(numer,denom);
+
+        
         int[] answer = new int[2];
-        int denum = (denum1 * num2) + (denum2 * num1);
-        int num = num1 * num2;
-        int n = gcd(denum, num);
-        answer[0] = denum / n;
-        answer[1] = num / n;
+        answer[0] = numer / g;
+        answer[1] = denom / g;
+
         return answer;
     }
 
-    public static int gcd(int num1, int num2) {
-        if (num1 % num2 == 0) {
-            return num2;
+    private static int gcdFunc(int n1, int n2) {
+        if (n2 == 0) {
+            return n1;
         }
-        return gcd(num2, num1 % num2);
+        return gcd(n2, n1 % n2);
     }
 }
+
