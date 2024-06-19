@@ -3,7 +3,6 @@ class Solution {
         int[] answer = new int[num_list.length];
         int index = 0;
         
-    
         for (int i = n; i < num_list.length; i++) {
             answer[index++] = num_list[i];
             
