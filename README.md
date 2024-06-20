@@ -45,6 +45,7 @@ git commit -m "개미군단 / 홍길동"
 | 5일차 | P   | [분수의 덧셈](https://school.programmers.co.kr/learn/courses/30/lessons/120808)    | 0   | [0617](https://github.com/vsuminv/Algorithm_Study/tree/main/0617_분수의덧셈) |
 | 6일차 | P   | [배열 두배 만들기](https://school.programmers.co.kr/learn/courses/30/lessons/120809) | 0 | [0618](https://github.com/vsuminv/Algorithm_Study/tree/main/0618_배열%두%배%만들기) |
 | 7일차 | P   | [순서 바꾸기](https://school.programmers.co.kr/learn/courses/30/lessons/181891)    | 0   | [0619](https://github.com/vsuminv/Algorithm_Study/tree/main/0619_순서%20바꾸기) |
+| 8일차 | P   | [5명](https://school.programmers.co.kr/learn/courses/30/lessons/181886)    | 0   | [0620](https://github.com/vsuminv/Algorithm_Study/tree/main/0620_5명씩) |
 
 
 
