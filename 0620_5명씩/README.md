@@ -8,8 +8,9 @@
 ---
 > 입출력 예
 
-names	                                                       result
-["nami", "ahri", "jayce", "garen", "ivern", "vex", "jinx"]	["nami", "vex"]
+| names                                                                 | result          |
+|----------------------------------------------------------------------|-----------------|
+| `["nami", "ahri", "jayce", "garen", "ivern", "vex", "jinx"]` | `["nami", "vex"]` |
  
 ---
 > 입출력 예 설명
