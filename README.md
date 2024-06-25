@@ -46,6 +46,9 @@ git commit -m "개미군단 / 홍길동"
 | 6일차 | P   | [배열 두배 만들기](https://school.programmers.co.kr/learn/courses/30/lessons/120809) | 0 | [0618](https://github.com/vsuminv/Algorithm_Study/tree/main/0618_배열%두%배%만들기) |
 | 7일차 | P   | [순서 바꾸기](https://school.programmers.co.kr/learn/courses/30/lessons/181891)    | 0   | [0619](https://github.com/vsuminv/Algorithm_Study/tree/main/0619_순서%20바꾸기) |
 | 8일차 | P   | [5명](https://school.programmers.co.kr/learn/courses/30/lessons/181886)    | 0   | [0620](https://github.com/vsuminv/Algorithm_Study/tree/main/0620_5명씩) |
+| 9일차 | P   | [배열에서 대소문자 변환하기](https://school.programmers.co.kr/learn/courses/30/lessons/181875)    | 0   | [0621](https://github.com/vsuminv/Algorithm_Study/tree/main/0621_배열에서%20대소문자%20변환하기) |
+| 10일차 | P   | [문자열 내림차순으로 배치하기](https://school.programmers.co.kr/learn/courses/30/lessons/12917) | 0   | [0621](https://github.com/vsuminv/Algorithm_Study/tree/main/0621_배열에서%20대소문자%20변환하기) |
+| 11일차 | P   | [Map - 실습](https://school.programmers.co.kr/learn/courses/9/lessons/406) |  자바중급  | [0625](https://github.com/vsuminv/Algorithm_Study/tree/main/0625_Map%EC%8B%A4%EC%8A%B5) |
 
 
 
