@@ -51,6 +51,7 @@ git commit -m "개미군단 / 홍길동"
 | 10일차 | P   | [문자열 내림차순으로 배치하기](https://school.programmers.co.kr/learn/courses/30/lessons/12917) | 0   | [0621](https://github.com/vsuminv/Algorithm_Study/tree/main/0621_배열에서%20대소문자%20변환하기) |
 | 11일차 | P   | [Map - 실습](https://school.programmers.co.kr/learn/courses/9/lessons/406) |  자바중급  | [0625](https://github.com/vsuminv/Algorithm_Study/tree/main/0625_Map%EC%8B%A4%EC%8A%B5) |
 | 12일차 | P   | [0 떼기](https://school.programmers.co.kr/learn/courses/30/lessons/181847?language=java) | 0  | [0626](https://github.com/vsuminv/Algorithm_Study/tree/main/0626_0%20%EB%96%BC%EA%B8%B0) |
+| 13일차 | P   | [마지막 두 원소](https://school.programmers.co.kr/learn/courses/30/lessons/181927) | 0  | [0627](https://github.com/vsuminv/Algorithm_Study/tree/main/%EB%A7%88%EC%A7%80%EB%A7%89%20%EB%91%90%20%EC%9B%90%EC%86%8C%20) |
 
 
 
